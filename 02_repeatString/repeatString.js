@@ -9,8 +9,8 @@ const repeatString = function(string, num) {
        
       newString += word;
      
-    }; return newString;
-}
+    } return newString;
+};
 
 // Do not edit below this line
 module.exports = repeatString;
